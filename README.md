@@ -52,9 +52,11 @@ Connects students to freelance opportunities based on skill and location.
 
 📧 [Email](majaksabahker249@gmail.com )
 
-🌐 [Portfolio](https://majaksabahker.dev)  
-📄 [Resume](https://ymajaksabahker.com)  
-  [LinkedIn](https://linkedin.com/in/majak-sabahker-chol-272b1631b)
+🌐 [Portfolio](https://majaksabahker.dev) 
+
+📄 [Resume](https://ymajaksabahker.com) 
+
+🔗 [LinkedIn](https://linkedin.com/in/majak-sabahker-chol-272b1631b)
 
 
 ### 👀 I'm currently open to:
