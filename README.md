@@ -39,7 +39,7 @@ JWT Auth · OAuth2 · WebSockets · Firebase · Stripe API · MVC · Clean Archi
 MediTrack for Community Health Services System 
 Node.js · React.js · Tailwind · PostgreSQL · Express.js_  
 Real-time appointment booking, dashboards, and SMS/email notifications.  
-[GitHub Repo](https://github.com/majaksabahker/meditrack)
+[GitHub Repo](https://github.com/majaksabahker/MediTrack-system)
 
 SkillHub for Student Freelance and Skill Marketplace  
 React · Django · PostgreSQL · JWT Auth · Bootstrap_  
