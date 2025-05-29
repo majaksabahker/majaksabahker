@@ -50,8 +50,6 @@ Connects students to freelance opportunities based on skill and location.
 
  ## 🤝 Let’s Connect!
 
-📧 [Email](majaksabahker249@gmail.com )
-
 🌐 [Portfolio](https://majaksabahker.dev) 
 
 📄 [Resume](https://majaksabahker.com) 
