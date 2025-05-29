@@ -54,7 +54,7 @@ Connects students to freelance opportunities based on skill and location.
 
 🌐 [Portfolio](https://majaksabahker.dev) 
 
-📄 [Resume](https://ymajaksabahker.com) 
+📄 [Resume](https://majaksabahker.com) 
 
 🔗 [LinkedIn](https://linkedin.com/in/majak-sabahker-chol-272b1631b)
 
