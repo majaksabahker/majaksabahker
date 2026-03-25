@@ -1,4 +1,5 @@
 Hi, I'm Majak Sabahker Chol
+
 Software Engineer | Full-Stack Developer | Open Source Enthusiast
 I build scalable, real-world software solutions across healthtech, edtech and web platforms.
 Passionate about clean architecture, performance and solving meaningful problems through code.
