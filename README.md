@@ -26,6 +26,7 @@ Other:
 JWT Auth · OAuth2 · WebSockets · Firebase · Stripe API · Clean Architecture
 
 Featured Projects
+
 MediTrack  Community Health Management System
 Tech: Node.js · React.js · PostgreSQL · Tailwind CSS
 Real-time appointment booking system
@@ -33,13 +34,6 @@ Role-based dashboards (patients, doctors, admin)
 SMS & email notifications 
 
 [GitHub Repo](https://github.com/majaksabahker/MediTrack-system)
-
-SkillHub Student Freelance Marketplace
-Tech: React · Django · PostgreSQL · JWT Auth
-Connects students to freelance opportunities
-Skill-based matching system
-Location-aware job discovery
-[GitHub Repo](https://github.com/majaksabahker/skillhub)
 
 My GitHub Stats
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=majaksabahker&show_icons=true&theme=radical)
