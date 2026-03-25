@@ -1,65 +1,58 @@
-# 💻 Software Engineer | Full-Stack Developer | Open Source Enthusiast
+Hi, I'm Majak Sabahker Chol
+Software Engineer | Full-Stack Developer | Open Source Enthusiast
+I build scalable, real-world software solutions across healthtech, edtech and web platforms.
+Passionate about clean architecture, performance and solving meaningful problems through code.
 
-- 👋 Hello! I'm Majak Sabahker Chol, a passionate and results-driven Software Engineer with a strong foundation in full-stack web development,
-- cloud infrastructure, and scalable system design.
-- I thrive in fast-paced environments where innovation and collaboration drive meaningful impact.
+About Me
+Computer Science student (Graduating 2026)
+Full-stack developer with hands-on experience building web, frontend, backend and cloud-based systems
+Focused on developing impactful solutions in healthcare, education and digital platforms
+Currently learning: AI systems, system design, and cloud-native microservices
 
+Tech Stack
+Frontend:
+React.js · Next.js · Tailwind CSS · Redux · HTML5 · CSS3
 
-## 🚀 About Me
+Backend:
+Node.js · Express.js · Django · Flask · REST APIs
 
-- 🎓  Pursuing Bachelor of Computer Science and expected to graduate in 2026, Skills with hands-on experience in building web, mobile, and backend systems.
-- 💡 I specialize in crafting clean, efficient, and scalable code for modern tech products using tools like React.js, Node.js, Django, PostgreSQL, and Tailwind CSS.
-- 🌍 I build real-world solutions across  healthtech, educationtech, e-commerce, domains.
-- 🧠 Lifelong learner currently diving deep into AI agents, system design, and cloud-native microservices.
+Databases:
+PostgreSQL · MySQL
 
----
+DevOps & Tools:
+GitHub Actions · NGINX · CI/CD · Figma
 
-## 🛠️ Tech Stack
+Other:
+JWT Auth · OAuth2 · WebSockets · Firebase · Stripe API · Clean Architecture
 
-Frontend:  
-React.js · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Redux · Axios
+Featured Projects
+MediTrack  Community Health Management System
+Tech: Node.js · React.js · PostgreSQL · Tailwind CSS
+Real-time appointment booking system
+Role-based dashboards (patients, doctors, admin)
+SMS & email notifications 
 
-Backend: 
-Node.js · Express.js · Django · Flask · REST APIs · GraphQL · PostgreSQL · MongoDB · MySQL
+[GitHub Repo](https://github.com/majaksabahker/MediTrack-system)
 
-DevOps & Tools: 
-GitHub Actions · NGINX · Vercel · Render · Heroku · CI/CD · Postman · Figma
+SkillHub Student Freelance Marketplace
+Tech: React · Django · PostgreSQL · JWT Auth
+Connects students to freelance opportunities
+Skill-based matching system
+Location-aware job discovery
+[GitHub Repo](https://github.com/majaksabahker/skillhub)
 
-Other Skills: 
-JWT Auth · OAuth2 · WebSockets · Firebase · Stripe API · MVC · Clean Architecture.
-
-## 📈 My GitHub Stats
-
+My GitHub Stats
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=majaksabahker&show_icons=true&theme=radical)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majaksabahker&layout=compact&theme=radical)
 
+Let’s Connect!
+[Portfolio](https://majaksabahker.dev) 
+[Resume](https://majaksabahker.com) 
+[LinkedIn](https://linkedin.com/in/majak-sabahker-chol-272b1631b)
 
-## 🌟 Featured Projects
+Open To Opportunities
+Software Engineering Roles (Remote / Hybrid)
+Startups solving real-world problems
+AI, HealthTech and Scalable Systems
 
-MediTrack for Community Health Services System 
-Node.js · React.js · Tailwind · PostgreSQL · Express.js_  
-Real-time appointment booking, dashboards, and SMS/email notifications.  
-[GitHub Repo](https://github.com/majaksabahker/MediTrack-system)
-
-SkillHub for Student Freelance and Skill Marketplace  
-React · Django · PostgreSQL · JWT Auth · Bootstrap_  
-Connects students to freelance opportunities based on skill and location.  
-[GitHub Repo](https://github.com/majaksabahker/skillhub)
-
-
-
- ## 🤝 Let’s Connect!
-
-🌐 [Portfolio](https://majaksabahker.dev) 
-
-📄 [Resume](https://majaksabahker.com) 
-
-🔗 [LinkedIn](https://linkedin.com/in/majak-sabahker-chol-272b1631b)
-
-
-### 👀 I'm currently open to:
-- 🌍 Remote or hybrid Software Engineering roles  
-- 🚀 Startups or companies solving real-world problems  
-- 🤖 Projects involving AI, healthtech, or scalable platforms  
-
-💬 Let’s build the future — one commit at a time. Feel free to connect!
+“Building the future one commit at a time.”
