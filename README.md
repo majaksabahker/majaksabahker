@@ -4,12 +4,14 @@ I build scalable, real-world software solutions across healthtech, edtech and we
 Passionate about clean architecture, performance and solving meaningful problems through code.
 
 About Me
+
 Computer Science student (Graduating 2026)
 Full-stack developer with hands-on experience building web, frontend, backend and cloud-based systems
 Focused on developing impactful solutions in healthcare, education and digital platforms
 Currently learning: AI systems, system design, and cloud-native microservices
 
 Tech Stack
+
 Frontend:
 React.js · Next.js · Tailwind CSS · Redux · HTML5 · CSS3
 
@@ -23,6 +25,7 @@ DevOps & Tools:
 GitHub Actions · NGINX · CI/CD · Figma
 
 Other:
+
 JWT Auth · OAuth2 · WebSockets · Firebase · Stripe API · Clean Architecture
 
 Featured Projects
